@@ -1,11 +1,4 @@
-<!-- <p align="center">
-  <a href="https://cinnamonshrine.github.io"><img src="Banner.png" alt="CinnamonShrine Banner"></a>
-</p> -->
-
 # こんにちは (๑・ω・๑)/~
-
-<!-- <img align="right" alt="GIF" height="125px" src="https://i.pinimg.com/originals/64/92/d0/6492d008d9a86d202053a3858860b890.gif" /> -->
-
 - 🎓 I'm currently studying on ... State Polytechnic of Jember
 - 💻 Study program ... D3 Informatics Management
 - 🌱 I’m currently learning ... Anything about IT
@@ -13,35 +6,28 @@
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
 
 ## 💻 Use and Learn
-### Languages
-> [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-> [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-> [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-> [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-> [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+### Programing Languages
+> ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+>![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+> ![css](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
+> ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frameworks
-> [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-> [![codeigniter](https://img.shields.io/badge/CodeIgniter-E74122?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-
+> ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+> ![codeigniter](https://img.shields.io/badge/CodeIgniter-E74122?style=for-the-badge&logo=codeigniter&logoColor=white)
+> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+> 
 ### Tools
-> [![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-> [![sublimetxt](https://img.shields.io/badge/Sublime_Text-grey?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
-> [![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)](https://laragon.org/)
-> [![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
-> [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+> ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+> ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)
+> ![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)
+> ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📊 My Github Stats
 
-[![CinnamonShrine's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RemahBiskuit&theme=default&show_icons=true&hide_border=true)](https://github.com/ArifBillah07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifBillah07&layout=compact&hide_border=true)](https://github.com/ArifBillah07)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RemahBiskuit&theme=monokai)](https://github.com/remahbiskuit)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RemahBiskuit&theme=monokai)](https://github.com/ArifBillah07)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RemahBiskuit&theme=monokai)
 
-## 🌐 Social Media
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-Muhammad%20Arif%20Billah-lightgrey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-arif-billah-a11911117/)
-[![Facebook](https://img.shields.io/badge/Facebook-Muhammad%20Arif%20Billah-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/CinnamonShrine/)
-[![Instagram](https://img.shields.io/badge/Instagram-@m.arifbillah07-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/m.arifbillah07/)
-[![Twitter](https://img.shields.io/badge/Twitter-@CinnamonShrine-00acee?style=for-the-badge&logo=twitter)](https://twitter.com/CinnamonShrine)
-
-[![Discord](https://discord.c99.nl/widget/theme-2/385033839866544138.png)](http://discord.com/users/385033839866544138)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=muhammad_arif_billah&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=muhammad_arif_billah&redirect=true)
+## 🌐 Feel free to contact me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marifbillah@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/remahbiskuit)[ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.arifbillah07)
