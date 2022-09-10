@@ -19,7 +19,7 @@
 > ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 > 
 ### Tools
-> ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+> ![vscode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 > ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)
 > ![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)
 > ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
