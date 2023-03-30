@@ -30,4 +30,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RemahBiskuit&theme=monokai)](https://github.com/ArifBillah07)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RemahBiskuit&theme=monokai)
 
 ## 🌐 Feel free to contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marifbillah@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/remahbiskuit)[ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.arifbillah07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@remahbiskuit.my.id) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/remahbiskuit)[ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m.arifbillah07)
