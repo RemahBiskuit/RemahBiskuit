@@ -14,6 +14,7 @@
 > ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frameworks
+> ![flutter](https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 > ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 > ![ReactJS](https://img.shields.io/badge/react.js-2B4295?style=for-the-badge&logo=react&logoColor=white)
 > ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
