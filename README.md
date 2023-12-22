@@ -8,8 +8,6 @@
 ## 💻 Use and Learn
 ### Programing Languages
 > ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-> ![css](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 > ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 > ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -23,7 +21,6 @@
 ### Tools
 > ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 > ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF)
-> ![githubdesktop](https://img.shields.io/badge/Github_Desktop-803CA4?style=for-the-badge&logo=github&logoColor=white)
 > ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📊 My Github Stats
