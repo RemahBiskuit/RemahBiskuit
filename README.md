@@ -6,7 +6,7 @@
 - 😄 Nickname: ... Arif
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
 
-## 💻 Use and Learn
+## 🖱️ Use and Learn
 
 ### Programing Languages
 
@@ -20,7 +20,7 @@
 
 > ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## 📊 What im working on
+## 💻 Language that im working on
 
 <!--START_SECTION:waka-->
 
