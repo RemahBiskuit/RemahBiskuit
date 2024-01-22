@@ -10,15 +10,15 @@
 
 ### Programing Languages
 
-> ![dart](https://img.shields.io/badge/dart-0553B1?style=for-the-badge&logo=dart&logoColor=white) > ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) > ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) > ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+> ![dart](https://img.shields.io/badge/dart-0553B1?style=for-the-badge&logo=dart&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frameworks
 
-> ![flutter](https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white) > ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) > ![ReactJS](https://img.shields.io/badge/react.js-2B4295?style=for-the-badge&logo=react&logoColor=white) > ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) > ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+> ![flutter](https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ReactJS](https://img.shields.io/badge/react.js-2B4295?style=for-the-badge&logo=react&logoColor=white)> ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools
 
-> ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) > ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF) > ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+> ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![laragon](https://img.shields.io/badge/Laragon-grey?style=for-the-badge&logo=laragon&logoColor=39AEFF) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📊 What im working on
 
@@ -28,7 +28,6 @@
 ## 📊 My Github Stats
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RemahBiskuit&theme=monokai)](https://github.com/remahbiskuit)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RemahBiskuit&theme=monokai)]
 
 ## 🌐 Feel free to contact me
 
