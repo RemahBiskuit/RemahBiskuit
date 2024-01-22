@@ -14,7 +14,7 @@
 
 ### Frameworks
 
-> ![flutter](https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ReactJS](https://img.shields.io/badge/react.js-2B4295?style=for-the-badge&logo=react&logoColor=white)> ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+> ![flutter](https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ReactJS](https://img.shields.io/badge/react.js-2B4295?style=for-the-badge&logo=react&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools
 
