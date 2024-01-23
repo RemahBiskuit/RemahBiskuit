@@ -24,11 +24,16 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Dart       9 hrs 41 mins   ████████████████████████▓   98.68 %
-YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```rust
+From: 23 November 2021 - To: 21 January 2024
+
+Total Time: 26 hrs 37 mins
+
+PHP        11 hrs 44 mins  >>>>>>>>>>>--------------   43.90 %
+Dart       10 hrs 4 mins   >>>>>>>>>----------------   37.63 %
+HTML       1 hr 32 mins    >------------------------   05.79 %
+Markdown   1 hr 7 mins     >------------------------   04.17 %
+Other      7 mins          -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
