@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 November 2021 - To: 03 October 2024
+From: 23 November 2021 - To: 04 October 2024
 
 Total Time: 68 hrs 49 mins
 
@@ -34,7 +34,6 @@ HTML             16 hrs 33 mins  >>>>>>-------------------   24.02 %
 PHP              13 hrs 27 mins  >>>>>--------------------   19.52 %
 Blade Template   8 hrs 17 mins   >>>----------------------   12.02 %
 CSS              2 hrs 32 mins   >------------------------   03.68 %
-YAML             2 hrs 30 mins   >------------------------   03.63 %
 Markdown         1 hr 11 mins    -------------------------   01.73 %
 JavaScript       1 hr 5 mins     -------------------------   01.59 %
 Groovy           14 mins         -------------------------   00.35 %
