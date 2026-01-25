@@ -1,7 +1,7 @@
 # こんにちは (๑・ω・๑)/~
 
-- 🎓 I'm currently studying on ... State Polytechnic of Jember
-- 💻 Study program ... D3 Informatics Management
+- 🎓 I'm currently working on ... Sinergi Hotel & Villa
+- 💻 As a ... Marketing Communication Specialist & HR Rep.
 - 🌱 I’m currently learning ... Anything about IT
 - 😄 Nickname: ... Arif
 - ⚡ Fun fact: ... I'm a weeb (>ω<)
