@@ -1,6 +1,6 @@
 # こんにちは (๑・ω・๑)/~
 
-- 🎓 I'm currently working on ... Sinergi Hotel & Villa
+- 🏢 I'm currently working on ... Sinergi Hotel & Villa
 - 💻 As a ... Marketing Communication Specialist & HR Rep.
 - 🌱 I’m currently learning ... Anything about IT
 - 😄 Nickname: ... Arif
